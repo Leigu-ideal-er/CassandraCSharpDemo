@@ -1,0 +1,1 @@
+Sample Cassandra C# client app

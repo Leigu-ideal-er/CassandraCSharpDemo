@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cassandraemon</id>
+    <version>1.0.6</version>
+    <title>Cassandraemon</title>
+    <authors>sabro, kojiishi</authors>
+    <owners>sabro, kojiishi</owners>
+    <licenseUrl>http://cassandraemon.codeplex.com/license</licenseUrl>
+    <projectUrl>http://cassandraemon.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Cassandraemon is LINQ Provider for Apache Cassandra.</description>
+    <releaseNotes />
+    <copyright>Copyright (C) SabroCreate</copyright>
+    <language />
+    <tags>Cassandra LINQ</tags>
+  </metadata>
+</package>
